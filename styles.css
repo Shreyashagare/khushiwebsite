@@ -1,0 +1,124 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1512px;
+  height: 1315px;
+}
+
+.macbook-pro .overlap {
+  position: relative;
+  height: 5749px;
+}
+
+.macbook-pro .overlap-group-wrapper {
+  position: absolute;
+  width: 1512px;
+  height: 5749px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.macbook-pro .overlap-group {
+  background-color: #000000;
+  position: relative;
+  height: 5749px;
+}
+/*khushi mehta title*/
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 50px;
+  left: 85px;
+  font-family: "Beth Ellen", cursive;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .div {
+  position: absolute;
+  top: 116px;
+  left: 114px;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+/*make this blue*/
+.macbook-pro .text-wrapper-2 {
+  position: absolute;
+  top: 80px;
+  left: 889px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #51839e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-3 {
+  position: absolute;
+  top: 80px;
+  left: 1068px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-4 {
+  position: absolute;
+  top: 80px;
+  left: 1254px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+/* page title*/
+.macbook-pro .text-wrapper-5 {
+  position: absolute;
+  top: 580px;
+  left: 397px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .EMAIL-khushi-gmail {
+  position: absolute;
+  width: 573px;
+  top: 712px;
+  left: 808px;
+  font-family: "Noto Sans Palmyrene-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}

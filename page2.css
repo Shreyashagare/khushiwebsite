@@ -1,0 +1,273 @@
+macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1512px;
+  height: 2881px;
+}
+
+.macbook-pro .overlap {
+  position: relative;
+  height: 5749px;
+}
+
+.macbook-pro .overlap-group-wrapper {
+  position: absolute;
+  width: 1512px;
+  height: 5749px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.macbook-pro .overlap-group {
+  position: relative;
+  height: 5749px;
+  background-color: #000000;
+}
+/*khushi mehta title*/
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 50px;
+  left: 85px;
+  font-family: "Beth Ellen", cursive;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .div {
+  position: absolute;
+  top: 116px;
+  left: 114px;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .ERTET {
+  position: absolute;
+  width: 670px;
+  height: 481px;
+  top: 326px;
+  left: 86px;
+  object-fit: cover;
+}
+
+.macbook-pro .millennial {
+  position: absolute;
+  width: 670px;
+  height: 480px;
+  top: 858px;
+  left: 86px;
+}
+
+/*pagee title*/
+.macbook-pro .text-wrapper-2 {
+  position: absolute;
+  top: 204px;
+  left: 584px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .text-wrapper-3 {
+  position: absolute;
+  top: 455px;
+  left: 978px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .overlap-2 {
+  position: absolute;
+  width: 573px;
+  height: 511px;
+  top: 536px;
+  left: 844px;
+}
+
+.macbook-pro .text-wrapper-4 {
+  position: absolute;
+  top: 471px;
+  left: 149px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .p {
+  position: absolute;
+  width: 573px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans Palmyrene-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .overlap-3 {
+  position: absolute;
+  width: 573px;
+  height: 502px;
+  top: 1070px;
+  left: 844px;
+}
+
+.macbook-pro .text-wrapper-5 {
+  position: absolute;
+  top: 462px;
+  left: 149px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .poster {
+  position: absolute;
+  width: 1372px;
+  height: 759px;
+  top: 1595px;
+  left: 70px;
+}
+.macbook-pro .i-artistically {
+  position: absolute;
+  width: 573px;
+  top: 1590px;
+  left: 850px;
+  font-family: "Noto Sans Palmyrene-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .forbes {
+  position: absolute;
+  width: 1372px;
+  height: 400px;
+  top: 1926px;
+  left: 70px;
+  object-fit: cover;
+}
+
+.macbook-pro .overlap-5 {
+  position: absolute;
+  width: 576px;
+  height: 648px;
+  top: 2501px;
+  left: 186px;
+}
+
+.macbook-pro .immersing-myself-in {
+  position: absolute;
+  width: 573px;
+  top: 168px;
+  left: 3px;
+  font-family: "Noto Sans Palmyrene-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .text-wrapper-6 {
+  position: absolute;
+  top: 2448px;
+  left: 276px;
+  font-family: "League Spartan-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-pro .barbie {
+  position: absolute;
+  width: 558px;
+  height: 393px;
+  top: 2399px;
+  left: 884px;
+  object-fit: cover;
+}
+
+.macbook-pro .text-wrapper-7 {
+  position: absolute;
+  top: 80px;
+  left: 889px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+/*colour blue*/
+.macbook-pro .text-wrapper-8 {
+  position: absolute;
+  top: 80px;
+  left: 1068px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #51839e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .text-wrapper-9 {
+  position: absolute;
+  top: 80px;
+  left: 1254px;
+  font-family: "League Spartan-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .poster {
+  position: absolute;
+  width: 679px;
+  height: 485px;
+  top: 1383px;
+  left: 77px;
+}
